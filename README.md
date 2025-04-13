@@ -23,8 +23,8 @@ Click the image below to watch a demo of Mood Melody in action:
 [![Mood Melody Demo](sample3.png)](https://drive.google.com/file/d/1DClLh5A3PcbqrkdbCt167iVBKm756ScP/view?usp=sharing)
 
 ## Example Images
+![Mood Melody Demo](sample.png)
 ![Mood Melody Demo](sample1.png)
-![Mood Melody Demo](sample2.png)
 
 
 
