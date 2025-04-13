@@ -24,7 +24,7 @@ Click the image below to watch a demo of Mood Melody in action:
 
 ## Example Images
 ![Mood Melody Demo](sample.png)
-![Mood Melody Demo](sample1.png)
+![Mood Melody Demo](sample2.png)
 
 
 
