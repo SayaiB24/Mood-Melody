@@ -107,8 +107,10 @@ REACT_APP_SPOTIFY_CLIENT_SECRET=your_client_secret
 
 ## Contributors
 
+
+- Sayali Bambal (https://www.linkedin.com/in/sayali-bambal-1a6241302/) (https://github.com/SayaiB24)
 - Rochan Awasthi (https://www.linkedin.com/in/rochan-awasthi-393242302/) (https://github.com/Macbeth1501) 
-- Sayali Bambal (https://www.linkedin.com/in/sayali-bambal-1a6241302/) (https://github.com/SayaiB24)  
+ 
 
 
 From CE 2nd year, St. Vincent Palloti College of Engineering and Technology, Nagpur
